@@ -1,1 +1,1 @@
-# Stopwatch
+This is my first front-end project. Here I built a stopwatch using HTML, CSS, and Javascript. When we click on the 'start button stopwatch will start through millisecond, and click on 'stop' button stopwatch will stop clicking on the 'reset' button and set the time to zero. Here we divide 1000 milliseconds into 100.
